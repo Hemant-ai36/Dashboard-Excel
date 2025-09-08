@@ -9,6 +9,7 @@ This project analyzes Emergency Room (ER) data from a hospital to provide insigh
 # Patient Volume Tracking
 
 Daily number of patients visiting the emergency room
+
 Distinct count of patient IDs
 
 # Operational Efficiency
@@ -38,5 +39,7 @@ Data cleaning and structuring for reporting
 # 🎯 Outcomes
 
 Improved understanding of patient flow and waiting time patterns
+
 Identified factors influencing patient satisfaction
+
 A user-friendly dashboard for monitoring hospital ER performance
